@@ -46,8 +46,8 @@ getgenv().Config = {
                 ["Z"] = {["Enable"] = true, ["HoldTime"] = 0.2},
                 ["X"] = {["Enable"] = true, ["HoldTime"] = 2.5},
                 ["C"] = {["Enable"] = true, ["HoldTime"] = 2},
-                ["V"] = {["Enable"] = true, ["HoldTime"] = 0.2},
-                ["F"] = {["Enable"] = false, ["HoldTime"] = 0.2}
+                ["V"] = {["Enable"] = false, ["HoldTime"] = 0.2},
+                ["F"] = {["Enable"] = true, ["HoldTime"] = 0.2}
             }
         },
         --// Copy Next
