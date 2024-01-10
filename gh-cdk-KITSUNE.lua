@@ -14,8 +14,8 @@ getgenv().Config = {
         }
     },
     ["Chat"] = {
-        ["Enable"] = false, --// Enable Chat
-        ["Content"] = {"Hello me use MTriet Hub Auto Bounty"} --// Content
+        ["Enable"] = true, --// Enable Chat
+        ["Content"] = {"T1k T0k : (callmezelix6)"} --// Content
     },
     ["Misc"] = {
         ["Hide If Low Health"] = true, --// Run
